@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tb6l5ea0q-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tb6l5ea0q-python
